@@ -1,6 +1,6 @@
 {
   "name": "react-portfolio",
-  "homepage": "https://github.com/manojnareddy/manojna-portfolio-.git/",
+  "homepage": "https://manojnareddy.github.io/manojna-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@fontsource/outfit": "^5.0.8",
     "@fontsource/roboto": "^5.0.8",
+    "gh-pages": "^6.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
