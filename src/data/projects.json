@@ -1,25 +1,25 @@
 [
   {
-    "title": "Project A",
+    "title": "Snake game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a basic snake game.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://manojnareddy.github.io/snake.github.io/",
+    "source": "https://manojnareddy.github.io/snake.github.io"
   },
   {
-    "title": "Project B",
+    "title": "NETFLIX CLONE",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://manojnareddy.github.io/Netflix-Clone-master/",
+    "source": "https://github.com/manojnareddy/Netflix-Clone-master"
   },
   {
-    "title": "Project C",
+    "title": "Coming soon",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "skills": [],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
