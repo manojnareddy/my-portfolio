@@ -2,7 +2,7 @@
   {
     "title": "Snake game",
     "imageSrc": "projects/project.png",
-    "description": "This is a basic snake game.",
+    "description": "This is a basic snake game.It is made long back using CSS,html and java script",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://manojnareddy.github.io/snake.github.io/",
     "source": "https://manojnareddy.github.io/snake.github.io"
