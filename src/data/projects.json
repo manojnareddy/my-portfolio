@@ -11,7 +11,7 @@
     "title": "NETFLIX CLONE",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", ],
+    "skills": ["React", "Express", "Node" ],
     "demo": "https://manojnareddy.github.io/Netflix-Clone-master/",
     "source": "https://github.com/manojnareddy/Netflix-Clone-master"
   },
