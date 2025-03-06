@@ -2,7 +2,7 @@
   {
     "title": "Snake game",
     "imageSrc": "projects/project.png",
-    "description": "This is a basic snake game.It is made long back using CSS,html and java script",
+    "description": " A basic snake game.It is made long back using CSS,html and java script",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://manojnareddy.github.io/snake.github.io/",
     "source": "https://manojnareddy.github.io/snake.github.io"
@@ -11,16 +11,16 @@
     "title": "NETFLIX CLONE",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node" ],
+    "skills": ["React", "Node" ],
     "demo": "https://manojnareddy.github.io/Netflix-Clone-master/",
     "source": "https://github.com/manojnareddy/Netflix-Clone-master"
   },
   {
-    "title": "Coming soon",
+    "title": "Asteroid Game",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": [],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "  Control a spaceship to destroy asteroids while avoiding collisions.",
+    "skills": ["HTML" ,"Java Script"],
+    "demo": "https://manojnareddy.github.io/asteroid-game/",
+    "source": "https://github.com/manojnareddy/asteroid-game.git"
   }
 ]

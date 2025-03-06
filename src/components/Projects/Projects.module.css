@@ -3,9 +3,11 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px; /* Set a fixed width for the container */
 }
+
 
 .title {
   font-size: 35px;
