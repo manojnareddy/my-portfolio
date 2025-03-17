@@ -30,13 +30,5 @@
     "skills": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "jQuery"],
     "demo": "https://your-demo-link.com",
     "source": "https://github.com/manojnareddy/car"
-},
-  {
-    "title": "Asteroid Game",
-    "imageSrc": "projects/project.png",
-    "description": "  Control a spaceship to destroy asteroids while avoiding collisions.",
-    "skills": ["HTML" ,"Java Script"],
-    "demo": "https://manojnareddy.github.io/asteroid-game/",
-    "source": "https://github.com/manojnareddy/asteroid-game.git"
-  }
+}
 ]
