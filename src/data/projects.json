@@ -8,13 +8,13 @@
     "source": "https://manojnareddy.github.io/snake.github.io"
   },
   {
-    "title": "NETFLIX CLONE",
-    "imageSrc": "projects/netflix.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Node" ],
-    "demo": "https://manojnareddy.github.io/Netflix-Clone-master/",
-    "source": "https://github.com/manojnareddy/Netflix-Clone-master"
-  },
+    "title": "Car Rental System",
+    "imageSrc": "projects/car.png",
+    "description": "A dynamic web-based car rental system that streamlines booking, fleet management, and user authentication.",
+    "skills": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "jQuery"],
+    "demo": "https://your-demo-link.com",
+    "source": "https://github.com/manojnareddy/car"
+},
   {
     "title": "Asteroid Game",
     "imageSrc": "projects/asteroid.png",
@@ -23,12 +23,13 @@
     "demo": "https://manojnareddy.github.io/asteroid-game/",
     "source": "https://github.com/manojnareddy/asteroid-game.git"
   },
+ 
   {
-    "title": "Car Rental System",
-    "imageSrc": "projects/car.png",
-    "description": "A dynamic web-based car rental system that streamlines booking, fleet management, and user authentication.",
-    "skills": ["PHP", "MySQL", "HTML", "CSS", "JavaScript", "jQuery"],
-    "demo": "https://your-demo-link.com",
-    "source": "https://github.com/manojnareddy/car"
-}
+    "title": "NETFLIX CLONE",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Node" ],
+    "demo": "https://manojnareddy.github.io/Netflix-Clone-master/",
+    "source": "https://github.com/manojnareddy/Netflix-Clone-master"
+  }
 ]

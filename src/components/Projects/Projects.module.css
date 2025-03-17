@@ -3,26 +3,52 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: auto;
-  margin-right: auto;
-  width: 1200px; /* Set a fixed width for the container */
+  max-width: 1500px; /* Increased width */
+  overflow: hidden;
+ 
+  margin:auto
 }
 
-
+/* Title */
 .title {
-  font-size: 35px;
+  font-size: 40px; /* Bigger title */
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
 }
 
+/* 🔹 Bigger Scrollable Project Cards */
 .projects {
-  margin-top: 37px;
+  margin: auto;
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 15px;
-  width: 100%;
+  gap: 20px; /* More space between cards */
+  overflow-x: auto; /* Enables horizontal scrolling */
+  scroll-snap-type: x mandatory; /* Enables smooth scrolling */
+  padding: 20px 0;
+  white-space: nowrap;
+  justify-content: flex-start;
+  width: calc(400px * 3 + 50px); /* Bigger container to fit 3 bigger cards */
+}
+
+/* 🔹 Scrollbar Customization */
+.projects::-webkit-scrollbar {
+  height: 10px;
+}
+
+.projects::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 5px;
+}
+
+.projects::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* 🔹 Bigger Project Card */
+.projectCard {
+  flex: 0 0 400px; /* Increased card size */
+  scroll-snap-align: start;
+  white-space: normal;
 }
